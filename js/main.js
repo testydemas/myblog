@@ -1,5 +1,5 @@
 var normal = document.getElementById("nav-menu");
-var reverse = document.getElementById("nav-menu-left");
+/*var reverse = document.getElementById("nav-menu-left");
 
 var icon = normal !== null ? normal : reverse;
 
