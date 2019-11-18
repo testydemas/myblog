@@ -1,10 +1,10 @@
 # Site settings
-title: myBlog | Blog para la actividad1
+title: "myBlog | Blog para la actividad1"
 description: "Blog construido con Jekyll."
 url: "https://testydemas.github.io/myblog/"
 author:
   name: "gjb"
-  email: ""
+  email: 
   url: "hhttps://testydemas.github.io/myblog/"
 
 # Build settings
